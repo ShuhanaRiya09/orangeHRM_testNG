@@ -58,6 +58,7 @@ This project automates the employee management process on the OrangeHRM demo sit
 
    
 ## Automation Demonsration:
+https://github.com/user-attachments/assets/dd09db06-fd51-4c49-b14b-ac2e5c1758c8
 
 ## Allure Report showcasing:
 
